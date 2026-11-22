@@ -1,0 +1,33 @@
+port_name,vessel_class,class_allowed_at_port,port_max_draft_m,vessel_draft_m,draft_feasible,typical_cargo_mt,berth_capacity_vessels,discharge_rate_t_day,port_cost_usd,demurrage_usd_day_median_all,demurrage_usd_day_median_last90d,draft_source
+Paradip,Handysize,1,16.0,8.74,1,30500,40,22000,38000,13000,17000,sourced: Capesize handled with ~16 m restriction (entrance channel 17.1 m)
+Paradip,Supramax,1,16.0,11.13,1,47500,40,22000,52000,12000,20750,sourced: Capesize handled with ~16 m restriction (entrance channel 17.1 m)
+Paradip,Panamax,1,16.0,12.8,1,67000,40,22000,68000,11750,19000,sourced: Capesize handled with ~16 m restriction (entrance channel 17.1 m)
+Paradip,Capesize,1,16.0,15.21,1,130500,40,22000,115000,26750,44250,sourced: Capesize handled with ~16 m restriction (entrance channel 17.1 m)
+Visakhapatnam,Handysize,1,14.5,8.71,1,30250,36,18000,38000,13250,16375,"sourced: inner harbour 14.5 m, outer harbour 18.1 m (Vizag Port Authority)"
+Visakhapatnam,Supramax,1,14.5,11.07,1,47000,36,18000,52000,11750,21250,"sourced: inner harbour 14.5 m, outer harbour 18.1 m (Vizag Port Authority)"
+Visakhapatnam,Panamax,1,14.5,12.75,1,66500,36,18000,68000,11750,19250,"sourced: inner harbour 14.5 m, outer harbour 18.1 m (Vizag Port Authority)"
+Visakhapatnam,Capesize,1,18.1,15.27,1,131500,36,18000,115000,27500,46000,"sourced: inner harbour 14.5 m, outer harbour 18.1 m (Vizag Port Authority)"
+Haldia,Handysize,1,9.0,8.74,1,30500,30,12000,38000,12750,16250,sourced: ~9 m max draft; larger ships part-load / lighter
+Haldia,Supramax,1,9.0,11.07,0,47000,30,12000,52000,12000,20875,sourced: ~9 m max draft; larger ships part-load / lighter
+Haldia,Panamax,1,9.0,12.86,0,67500,30,12000,68000,12000,18750,sourced: ~9 m max draft; larger ships part-load / lighter
+Haldia,Capesize,0,9.0,13.84,0,108750,30,12000,115000,27125,45000,sourced: ~9 m max draft; larger ships part-load / lighter
+Kandla,Handysize,1,14.0,8.74,1,30500,34,15000,38000,13000,16250,assumed - verify with port authority
+Kandla,Supramax,1,14.0,11.07,1,47000,34,15000,52000,12000,20750,assumed - verify with port authority
+Kandla,Panamax,1,14.0,12.8,1,67000,34,15000,68000,11750,18750,assumed - verify with port authority
+Kandla,Capesize,0,14.0,13.84,0,108750,34,15000,115000,27125,45000,assumed - verify with port authority
+Mundra,Handysize,1,17.0,8.67,1,30000,48,30000,38000,13250,16000,assumed - verify with port authority
+Mundra,Supramax,1,17.0,11.13,1,47500,48,30000,52000,11750,20750,assumed - verify with port authority
+Mundra,Panamax,1,17.0,12.8,1,67000,48,30000,68000,11750,18625,assumed - verify with port authority
+Mundra,Capesize,1,17.0,15.31,1,132000,48,30000,115000,27500,45750,assumed - verify with port authority
+Krishnapatnam,Handysize,1,18.0,8.82,1,31000,30,20000,38000,12875,16750,assumed - verify with port authority
+Krishnapatnam,Supramax,1,18.0,11.1,1,47250,30,20000,52000,12000,20250,assumed - verify with port authority
+Krishnapatnam,Panamax,1,18.0,12.86,1,67500,30,20000,68000,12000,19000,assumed - verify with port authority
+Krishnapatnam,Capesize,1,18.0,15.24,1,131000,30,20000,115000,26750,44125,assumed - verify with port authority
+Mormugao,Handysize,1,14.5,8.74,1,30500,26,14000,38000,13000,16125,assumed - verify with port authority
+Mormugao,Supramax,1,14.5,11.07,1,47000,26,14000,52000,11750,19875,assumed - verify with port authority
+Mormugao,Panamax,1,14.5,12.86,1,67500,26,14000,68000,12000,19000,assumed - verify with port authority
+Mormugao,Capesize,0,14.5,13.84,0,108750,26,14000,115000,27125,45000,assumed - verify with port authority
+New Mangalore,Handysize,1,14.0,8.74,1,30500,24,13000,38000,13250,16125,assumed - verify with port authority
+New Mangalore,Supramax,1,14.0,11.07,1,47000,24,13000,52000,11500,21125,assumed - verify with port authority
+New Mangalore,Panamax,1,14.0,12.8,1,67000,24,13000,68000,11750,19500,assumed - verify with port authority
+New Mangalore,Capesize,0,14.0,13.84,0,108750,24,13000,115000,27125,45000,assumed - verify with port authority
